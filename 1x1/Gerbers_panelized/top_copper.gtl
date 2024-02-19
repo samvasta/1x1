@@ -1,0 +1,28 @@
+%MOMM*%
+%FSLAX46Y46*%
+%IPPOS*%
+%ADD10C,1*%
+%ADD11C,1*%
+%TF.GenerationSoftware,halfmarble,hm-panelizer,1.0.0 (beta)*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L1,Top*%
+%TF.FilePolarity,Positive*%
+%LPD*%
+%TA.AperFunction,SMDPad,CuDef*%
+%TD*%
+D10*
+G01*
+X5000000Y3000000D03*
+X75000000Y3000000D03*
+%TF.GenerationSoftware,halfmarble,hm-panelizer,1.0.0 (beta)*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L1,Top*%
+%TF.FilePolarity,Positive*%
+%LPD*%
+%TA.AperFunction,SMDPad,CuDef*%
+%TD*%
+D11*
+G01*
+X5000000Y97100000D03*
+X75000000Y97100000D03*
+M02*
